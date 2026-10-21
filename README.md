@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:6C2BD9,100:00F5FF&text=PRITAM%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Pritam Singh profile banner"/>
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Pritam Singh Bhati - GitHub Banner"/>
 </p>
 
 <h1 align="center">Hey there, I'm Pritam 👋</h1>
