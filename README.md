@@ -1,7 +1,6 @@
 <!-- PROFILE BANNER -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Pritam Singh Bhati - GitHub Banner"/>
-</p>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/525430d0-dcaa-4c81-8ca5-32973e7c2fc6" />
+
 
 <h1 align="center">Hey there, I'm Pritam 👋</h1>
 
